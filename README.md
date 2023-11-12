@@ -8,9 +8,9 @@ If the mail has been sent the ESP goes into deepsleep which consumes some uA.
 
 Parts:
 
-- ESP8266 Board or ESP32 Module
+- ESP8266 Board or ESP32 Module (for example: https://www.az-delivery.de/products/d1-mini)
 - 2 AA Rechargable Batteries with Holder
-- 2.0V-3.0V to 3.3V step up DC/DC Converter
+- 2.0V-3.0V to 3.3V step up DC/DC Converter (for example: https://www.az-delivery.de/products/mt3608-dc-dc-step-up-modul-1?_pos=1&_sid=6b58cad5a&_ss=r)
 - Reed Switch with magnet
 - 10uF/6.3V Capacitor
 
