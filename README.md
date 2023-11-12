@@ -5,6 +5,7 @@ For saving limited battery power and optimize the battery life the sketch enable
 
 If the mail has been sent the ESP goes into deepsleep which consumes some uA.
 
+
 Parts:
 
 - ESP8266 Board or ESP32 Module
@@ -17,7 +18,10 @@ Parts:
 
   ![circuit](https://github.com/casu/esp8266-window-sensor-with-delayed-mail-reminder/assets/11190081/0bbb3840-54c4-47fd-a88c-52b3cd6cca26)
 
+
 Requirements:
 
-
+- Arduino IDE
+- Board Administrator URLs: https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json
+- Addition Library: ESP Mail Client by Mobizt
 
